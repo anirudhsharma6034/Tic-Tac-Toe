@@ -37,7 +37,8 @@ The game allows two players to play turn by turn in the browser.
 ![Game Screenshot 3](sc3.png.png)
 
 ## Live Demo
-https://github.com/anirudhsharma6034/Tic-Tac-Toe.git
+https://anirudhsharma6034.github.io/Tic-Tac-Toe/
+
 
 
 
