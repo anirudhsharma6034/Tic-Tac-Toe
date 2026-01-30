@@ -1,11 +1,11 @@
-# 🎮 Tic Tac Toe Game
+# Tic Tac Toe Game
 
 This is a simple and interactive **Tic Tac Toe game** built using **HTML, CSS, and JavaScript**.  
 The game allows two players to play turn by turn in the browser.
 
 ---
 
-## ✨ Features
+## Features
 - Two-player gameplay
 - Interactive UI
 - Winning logic implemented
@@ -14,14 +14,14 @@ The game allows two players to play turn by turn in the browser.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
 ---
 
-## ▶ How to Play
+## How to Play
 1. Open the game in your browser
 2. Player X starts the game
 3. Players take turns clicking on the boxes
@@ -30,6 +30,11 @@ The game allows two players to play turn by turn in the browser.
 
 ---
 
-## 📸 Screenshot
+## Screenshots
+
+![Game Screenshot 1](sc1.png.png)
+![Game Screenshot 2](sc2.png.png)
+![Game Screenshot 3](sc3.png.png)
+
 
 
